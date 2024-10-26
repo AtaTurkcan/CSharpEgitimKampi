@@ -5,5 +5,5 @@ Bu repo, Murat Yücedağ'ın C# Eğitim Kampı süresince tamamladığım projel
 Bu ilk projede, C# diline giriş yaparak Console.WriteLine() komutunu kullanarak konsola yazı yazdırmayı öğrendim. Basit bir “Merhaba Dünya!” programı oluşturarak, temel program yapısını kavradım. :technologist:
 
 ✨ Proje 2: Değişkenler
-Bu projede int, string, double gibi veri türleri ile değişken tanımlama ve bu türler üzerinde işlem yapma pratikleri yaptım. Farklı veri türlerinin özelliklerini ve nasıl kullanıldığını öğrendim. 
+Bu projede int, string, double gibi veri türleri ile değişken tanımlama ve bu türler üzerinde işlem yapma pratikleri yaptım. Farklı veri türlerinin özelliklerini ve nasıl kullanıldığını öğrendim. :man_technologist: 	:capital_abcd:
 
