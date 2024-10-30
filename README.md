@@ -23,6 +23,6 @@ Dizilerle çalışarak birden fazla değeri bir dizi içinde saklamayı ve bu de
 Bu projede, foreach döngüsünü kullanarak bir sınav sistemi simülasyonu oluşturdum. Öğrencilerin sınav notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim. :memo::pencil: :bar_chart:  
 
 **:diamond_shape_with_a_dot_inside: Proje 8: Methods**  
-Bu projede kendi metotlarımızı nasıl yazacağımızı öğrendim. Değer döndüren metotlar ile değer döndürmeyen metotlar arası farkları anladım ve nasıl kullanmamız gerektiğini anladım.	:card_index_dividers: :bulb:    
+Bu projede kendi metotlarımızı nasıl yazacağımızı öğrendim. Değer döndüren metotlar ile değer döndürmeyen metotlar arası farkları anladım ve nasıl kullanmamız gerektiğini anladım. :card_index_dividers: :bulb:    
  
 
